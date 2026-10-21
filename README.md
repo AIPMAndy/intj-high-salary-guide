@@ -12,8 +12,6 @@
 
 **[立即打开互动版](https://aipmandy.github.io/intj-high-salary-guide/)** · [7天开始](START-HERE.md) · [30天进阶](guides/30-day-plan.md) · [证据和研究来源](docs/sources.md)
 
-> 网站通过 [GitHub Actions](.github/workflows/deploy-pages.yml) 部署。首次上线必须先启用仓库 GitHub Pages 的 Actions Source。若暂未部署，可在本地直接打开 `index.html` 使用主要功能。
-
 ## 适合谁
 
 - 工作3～10年，有技术/产品/运营/管理经验，却一直不知道如何为自己定价的人。
@@ -68,21 +66,6 @@ python3 -m http.server 8000
 ```
 
 浏览器访问 `http://localhost:8000/`。修改 `data/chapters.json`、`data/templates.json`、`data/plan.json` 或 `site/template.html` 后，运行 `python3 scripts/build.py` 重新生成独立站点首页。
-
-## 🚀 部署到 GitHub Pages
-
-**这是一个全新仓库，请不要把它推送到旧的 `intj-growth-guide`。**
-
-目标仓库：`https://github.com/AIPMAndy/intj-high-salary-guide`  
-目标网站：`https://aipmandy.github.io/intj-high-salary-guide/`
-
-如果已经安装 GitHub CLI 并登录具有仓库创建权限的账号，解压本项目进入根目录，执行：
-
-```bash
-bash scripts/publish.sh
-```
-
-脚本会先检查内容和测试、创建或使用**指定的新仓库**、推送 `main`、尝试启用 GitHub Pages Actions Source。之后查看 Actions 是否部署成功；网址需实际访问确认。遇到权限问题详见 [Codex 发布指令](CODEX-PUBLISH.md)，也可在 GitHub 网站手动新建同名公开仓库后上传文件并设置 **Settings → Pages → Source: GitHub Actions**。
 
 ## 项目结构
 
