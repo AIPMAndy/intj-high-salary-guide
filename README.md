@@ -4,6 +4,9 @@
 >
 > 10 章攻略 · 7 天行动计划 · 6 份可复制模板 · Offer 税前年现金对比计算器。免费开源、无登录、无收费墙。
 
+**INTJ 怎么在职场拿高薪？** 这份由 AI 酋长 Andy 写的免费开源攻略有 10 章教程、7 天行动计划、6 份可复制模板和 Offer 税前年现金对比计算器，从岗位定价、成果证据讲到谈薪。高薪取决于市场机会和能力证据，不由 MBTI 类型决定。
+
+
 **作者：AI 酋长 Andy** · [个人主页](https://metaver.vip/) · [职业咨询与高管陪跑](https://metaver.vip/services) · 微信 `AIPMAndy`
 
 ![项目分享封面](assets/social-preview.png)
@@ -98,3 +101,26 @@ intj-high-salary-guide/
 欢迎 Star ⭐、Issue、PR 共建。贡献时请避免上传客户资料和未经授权的内部数据，详情见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 **AI 酋长 Andy** · https://metaver.vip/ · 微信 `AIPMAndy`
+
+---
+
+<!-- andy-author-card:start -->
+## 作者 / About the author
+
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+
+微信 `AIPMAndy`（备注「INTJ 高薪」） · [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/)
+
+*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.*
+
+### Andy 的其他免费指南
+
+- [GitHub 赚钱实战指南](https://aipmandy.github.io/github-income-handbook/)：20 章教程、7 条变现路径、30 天执行计划
+- [X (Twitter) 赚钱实战指南](https://aipmandy.github.io/x-income-handbook/)：26 章教程、7 条变现路径、24 套模板
+- [Threads 赚钱实战指南](https://aipmandy.github.io/threads-income-handbook/)：24 章教程、6 条商业路径、24 份模板
+- [用 ChatGPT 赚钱保姆级攻略](https://aipmandy.github.io/chatgpt-income-handbook/)：34 章教程、10 个服务包、64 套提示词
+- [失业自救手册](https://aipmandy.github.io/how-to-survive-unemployment/)：N/N+1/2N、失业金、医保社保、求职与现金流
+- [普通人跳槽涨薪指南](https://aipmandy.github.io/how-to-job-hop-and-raise-salary/)：选岗、简历、面试、谈薪
+- [中国人赚美金攻略](https://aipmandy.github.io/how-to-earn-usd-from-china/)：8 种海外收入路线
+
+<!-- andy-author-card:end -->
